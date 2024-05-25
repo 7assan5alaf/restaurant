@@ -21,8 +21,13 @@ and Customers can view all products
 #Technologies
 
 1-Spring Boot 3
+
 2- Spring Security 6
+
 3- JWT Token Authentication
-4- Spring Data JPA 
+
+4- Spring Data JPA
+
 5- JSR-303 and Spring Validation 
+
 6-OpenAPI and Swagger UI Documentation
