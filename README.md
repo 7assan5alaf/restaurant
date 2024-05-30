@@ -1,6 +1,6 @@
 #Overview
 
-My last project restaurant is a back-end application that enables users to make order online . It offers features such as user registration,secure forget password,secure email validation,
+the project restaurant is a back-end application that enables users to make order online . It offers features such as user registration,secure forget password,secure email validation,
 Category managment(including add, update,delete)
 order management (including creation, updating, cancel),product managment(including creation, update,delete,status avilable or not),
 cart management (add items,remove items), The application ensures security using JWT tokens and adheres to best practices in REST API design.
